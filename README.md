@@ -4,3 +4,6 @@ NaviLoad is an innovative project aimed at creating a lightweight and intuitive 
 ## Features
 - Clean Interface
 - Rust's Webview Library
+
+## Get started for developper
+``` docker composer up ```
