@@ -5,5 +5,9 @@ NaviLoad is an innovative project aimed at creating a lightweight and intuitive 
 - Clean Interface
 - Rust's Webview Library
 
-## Get started for developper
+## Developpement env for linux
+> make sure you have all dependance lib 
+> ``` libwebkit2gtk-4.0-dev ``` ```gtk3-rs```
+- Then just run ```cargo run```
+## For Docker composer 
 ``` docker composer up ```
